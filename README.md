@@ -11,7 +11,7 @@ Este portfólio reúne alguns dos projetos que desenvolvo ao longo da minha form
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 * **Excel:** organização, tratamento e análise de dados.
 * **SQL:** consultas, filtros, agregações e junções em bases de dados relacionais (PostgreSQL e MySQL).
@@ -23,27 +23,27 @@ Este portfólio reúne alguns dos projetos que desenvolvo ao longo da minha form
 
 ---
 
-## 📊 Projetos
+## Projetos
 
 ### Sistema de Gestão de Stocks — Python
 Aplicação de consola desenvolvida em Python para gestão de produtos e controlo de stock, com funcionalidades de registo, consulta e movimentação de produtos.
 
 * **Tecnologias:** Python, Git e GitHub.
-* 🔗 [Ver projeto no GitHub](https://github.com/amaricosta/Projeto_Final_Stocks)
+* 🔗 [Ver projeto](https://github.com/amaricosta/Projeto_Final_Stocks)
 
 ### Projetos em desenvolvimento
 Estou a desenvolver projetos práticos de SQL, ETL, análise de dados e Business Intelligence, que serão adicionados ao portfólio à medida que forem concluídos.
 
 ---
 
-## 📚 Formação
+## Formação
 
 **Técnico/a Especialista em Gestão de Informação e Ciência dos Dados — Nível 5 QNQ**  
 IEFP | Portugal (05/2026 – 05/2027) · **Em curso**
 
 ---
 
-## 📫 Contactos
+## Contactos
 
 * 🔗 [LinkedIn](www.linkedin.com/in/mariana-soares-4509942ab)
 * 📧 [maricostatrb@gmail.com](mailto:maricostatrb@gmail.com)
