@@ -31,6 +31,12 @@ Aplicação de consola desenvolvida em Python para gestão de produtos e control
 * **Tecnologias:** Python, Git e GitHub.
 * 🔗 [Ver projeto](https://github.com/amaricosta/Projeto_Final_Stocks)
 
+### Sistema de Gestão de Biblioteca Universitária — PostgreSQL
+Modelação e implementação de uma base de dados relacional em PostgreSQL para gerir acervo bibliográfico, exemplares, reservas e empréstimos e responder a consultas SQL de diferentes níveis de dificuldade.
+
+* **Tecnologias:** PostgreSQL 18, SQL, pgAdmin 4, draw.io, Git e GitHub.
+* 🔗 [Ver projeto](https://github.com/amaricosta/Sistema_Gestao_Biblioteca_UFCD10797)
+
 ### Projetos em desenvolvimento
 Estou a desenvolver projetos práticos de SQL, ETL, análise de dados e Business Intelligence, que serão adicionados ao portfólio à medida que forem concluídos.
 
